@@ -4,9 +4,8 @@
 
 .jumbotron  {
   background-image: url(img/gratisography-407H.jpg);
-  background-size: auto;
+  background-size: cover;
   opacity: 0.9;
-  background-repeat: no-repeat;
  /**Photo by Sora Sagano on Unsplash**/
 }
 
