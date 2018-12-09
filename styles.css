@@ -22,6 +22,7 @@
 
 .display-2
 {
+  border-style: solid;
   border-color: white;
   border-width: medium;
   text-shadow: 2px 2px white;
@@ -29,6 +30,7 @@
 }
 
 .lead {
+  border-style: solid;
   border-color: white;
   border-width: thin;
   text-shadow: 2px 2px white;
