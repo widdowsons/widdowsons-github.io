@@ -16,7 +16,7 @@
 
 
 .navbar {
-  color: #F0FFFF;
+  color: white;
   background-color: #A1E9D7;
   font-size: 1rem;
 }
@@ -33,7 +33,6 @@
 }
 
 .btn {
-  background-color: #A1E9D7;
   border-style: solid;
   border-color: black;
 
