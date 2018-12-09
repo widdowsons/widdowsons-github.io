@@ -1,6 +1,6 @@
 .jumbotron  {
   background-image: url(img/gratisography-407H.jpg);
-  background-size: cover;
+  background-size: contain;
   opacity: 0.9;
  /**Photo by Sora Sagano on Unsplash**/
 }
