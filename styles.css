@@ -21,11 +21,19 @@
 }
 
 .display-2,
-.lead {
+{
   border-color: white;
   border-width: medium;
   text-shadow: 3px 2px white;
 }
+
+.lead {
+  border-color: white;
+  border-width: small;
+  text-shadow: 1px 1px white;
+
+}
+
 .row {
   padding-left: 10px;
 
