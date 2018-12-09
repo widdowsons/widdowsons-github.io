@@ -1,5 +1,7 @@
 .jumbotron  {
   background-image: url(img/sora-sagano-639761-unsplash.jpg);
+  background-size: cover;
+  opacity: .6;
  /**Photo by Sora Sagano on Unsplash**/
 }
 
