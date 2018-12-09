@@ -24,14 +24,14 @@
 {
   border-color: white;
   border-width: medium;
-  text-shadow: 3px 2px white;
+  text-shadow: 2px white;
 
 }
 
 .lead {
   border-color: white;
   border-width: small;
-  text-shadow: 1px 1px white;
+  text-shadow: 2px white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
 }
