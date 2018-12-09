@@ -17,22 +17,23 @@
 
 .navbar {
   color: #F0FFFF;
+  background-color: #A1E9D7;
   font-size: 1rem;
 }
 
 .display-2
 {
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px 1px white;
 }
 
 .lead {
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px 1px white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
 }
 
 .btn {
-  background-color: #754FC5;
+  background-color: #A1E9D7;
   border-style: solid;
   border-color: black;
 
