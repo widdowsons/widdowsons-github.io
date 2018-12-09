@@ -21,13 +21,13 @@
 
 .display-2
 {
-  text-shadow: 2px 2px 1px white;
+  text-shadow: 2px 2px 1px #EEF4F1;
   color: #484A49;
   font-size: 1.5rem;
 }
 
 .lead {
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px #EEF4F1;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.9rem;
   color: #484A49;
